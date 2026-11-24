@@ -1,0 +1,20 @@
+# Godot
+.godot/
+*.uid.bak
+
+# 构建产物 / 大文件
+build/
+android/
+addons/
+Godot_v*.x86_64
+*.tpz
+*.apk
+*.idsig
+*.zip
+
+# 密钥
+*.keystore
+*.jks
+
+# 音乐（自行放置）
+audio/bgm.mp3
